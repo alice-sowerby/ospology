@@ -27,17 +27,19 @@
 ## 🙋‍♀️ What’s next? - 2025 Roadmap
  
 ### Printed Version
-- **Desired Full Printed Version Date:**  
+- **Desired PDF Version Date:**  
   - **June 2025** ⏳  
-  - PDF online and printed version available
+  - PDF online, and ready for Open Source Summit NA
+    
+- **Desired Full Printed Version Date:**  
+  - **August 2025** ⏳  
+  - Printed version available for Open Source Summit Europe
  
 ### Exploration for v2.0
 - **Start Planning and Editing:**  
   - **September 2025** ⏳  
   - Identify areas of improvement based on feedback and emerging open source trends
   
-
-
 > 🐣 If you are new to the project, please scroll down to `Newcommers - START HERE` and read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 

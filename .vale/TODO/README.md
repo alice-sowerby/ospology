@@ -15,19 +15,18 @@ Remember that each reader has their own context and you should encourage them to
 
 Check what the TODO group and OSPO Book goup has in mind for goals for your chapter.
 Work on an outline before creating the content.
-Review the other chapters to ensure that you build on the book's content and don't repeat it.
+Review the other chapters to ensure that you build on the book's content and don't repeat it. We recommend that you take time to read the whole book before you start to create your chapter or provide new content. 
 
 ### Links
 
 The book exists in both and online and printed format.
-For this reason, we ask you not to use hyperlinks in the running text, but instead use a superscript number and related footnotes.
-Give link URLs in full (absolute, not relative) in the footnotes.
-Format these as clickable links in the markdown file.
+For this reason, we ask you not to use hyperlinks in the running text, but instead use footnotes in the markdown format [^2] which include the link URL in full (absolute, not relative). You can look at existing chapters to see what this looks like. 
+
 Where content exists in both source code (for example on GitHub) and published content (for example on the TODO website), you should link to the published content.
 
 ### Sharing Pre-Existing Content
 
-This book should not replicate an exact copy of content already available elsewhere.
+This book should not replicate an exact copy of content already available elsewhere. 
 If you know of a good resource that you want to include, you can write about it and link to it (as mentioned previously), and give advice on how to incorporate it into the advice given in your chapter.
 
 ### Diagrams
@@ -42,7 +41,7 @@ If the diagram has come from another source please check that its licence permit
 ### Heading Style
 
 Use title-style capitalization for headings.
-Capitalize every word except minor words like "a", "and", "at", and so on.
+Capitalize every word except minor words like "a", "and", "at".
 
 ### Heading Punctuation
 
@@ -54,8 +53,7 @@ Don't put a period at the end of a heading.
 
 In general, use active voice instead of passive voice.
 Look for forms of "to be" (am, are, is, was, were, etc.) followed by a past participle.
-When you use the active voice, you have to be more specific about who is doing the action.
-This makes it more suitable for clear communication.
+When you use the active voice, you have to be more specific about who is doing the action. This makes it more suitable for clear communication.
 
 For example:
 
@@ -72,12 +70,7 @@ Use a hyphen.
 
 ### Accessibility Considerations
 
-You should write in a way that is easy to understand.
-Some people do not speak English as a first language.
-Some people have learning difficulties.
-When you write try to use sentences that are shorter rather than longer.
-Use the most common words and say what you mean.
-Even people who can read well find clear writing easier to understand.
+You should write in a way that is easy to understand. Some people do not speak English as a first language. Some people have learning difficulties. When you write try to use sentences that are shorter rather than longer. Use the most common words and say what you mean. Even people who can read well find clear writing easier to understand.
 
 If you want to know more about writing clearly, you can learn more on the website of The Campaign for Plain English https://www.plainenglish.co.uk/
 
@@ -189,7 +182,7 @@ Don't use two spaces.
 ### Semicolons
 
 Use semicolons judiciously.
-Consider whether a period or a conjunction would work better.
+Consider whether a period or a conjunction (for example: and, or, but) would work better.
 
 ### Quotation Marks
 
